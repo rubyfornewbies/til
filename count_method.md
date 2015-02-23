@@ -5,3 +5,5 @@ votes.value.select{ |v| v == "Pedro" }
 
 votes.value.count("Pedro") 
 ```
+
+- [brian](http://twitter.com/brianllamar)
